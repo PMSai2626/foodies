@@ -38,8 +38,8 @@ const Services = () => {
             </p>
             <h1 className="text-3xl font-bold">Services</h1>
             <p className="text-xs text-gray-400">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Perspiciatis delectus architecto error nesciunt,
+            Thank you very much. <br />
+               They do not know the error of the selected architect.
             </p>
           </div>
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-14 md:gap-5 place-items-center">

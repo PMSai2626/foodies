@@ -35,18 +35,18 @@ const Banner = () => {
               {/* text content section */}
               <div className="flex flex-col justify-center gap-6 sm:pt-0">
                 <h1 className="text-3xl sm:text-4xl font-bold">
-                  Lorem, ipsum dolor.
+                Thank you very much.
                 </h1>
                 <p className="text-sm text-gray-500 tracking-wide leading-5">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Eaque reiciendis inventore iste ratione ex alias quis magni at
-                  optio
+                The customer himself, the customer will be able to pursue the adipiscing of the company.
+                   And by rejecting them, he discovers this reason from the other great ones
+                   option
                   <br />
                   <br />
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Beatae ab sed, exercitationem minima aliquid eligendi
-                  distinctio? Fugit repudiandae numquam hic quo recusandae.
-                  Excepturi totam ad nam velit quasi quidem aspernatur.
+                  The company itself is a very successful company.
+                   Happy from but, the exercise of choosing something minimal
+                   distinction? He flees to be rejected, never here to be rejected.
+                   I will take the whole thing as if he wanted it to be rough
                 </p>
                 <div className="flex gap-6">
                   <div>
